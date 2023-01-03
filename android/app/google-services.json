@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781196300723",
+    "project_id": "authfirebase-ec9d8",
+    "storage_bucket": "authfirebase-ec9d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781196300723:android:f3c8b6abd810cab5917bc6",
+        "android_client_info": {
+          "package_name": "com.example.auth_minggu11"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781196300723-m53selo3cp7u7k70jnu9rrujrr5qjq1k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdicIOfB1FwteTcUa8h6U7QkHtmHYfr4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781196300723-m53selo3cp7u7k70jnu9rrujrr5qjq1k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
